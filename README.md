@@ -1,3 +1,3 @@
 # MichaelSaffold.com
 
-My personal website 😇 [[link](https://MichaelSaffold.com)]
+My personal website 😇 [ [LINK](https://MichaelSaffold.com) ]

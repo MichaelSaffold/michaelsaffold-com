@@ -1,6 +1,9 @@
 <script>
-  import avi from './assets/halo.png'
+  import avi from "./assets/halo.png";
+  import "bootstrap-icons/font/bootstrap-icons.css";
 </script>
+
+<!-- svelte-ignore a11y-missing-content -->
 <main>
   <div class="hero min-h-screen bg-gradient-to-b from-blue-500 to-blue-300">
     <div class="hero-overlay bg-opacity-60" />
@@ -18,13 +21,13 @@
         <p class="mb-2">🍋 Goleta, CA</p>
         <div class="justify-center">
           <a
-            class="btn btn-primary my-2"
-            href="https://www.linkedin.com/in/michaelsaffold/">LinkedIn</a
-          >
+            href="https://linkedin.com/in/MichaelSaffold"
+            class="btn btn-primary my-2 bi bi-linkedin text-3xl"
+          />
           <a
-            class="btn btn-primary my-2"
-            href="https://github.com/MichaelSaffold">Github</a
-          >
+            href="https://github.com/MichaelSaffold"
+            class="btn btn-primary my-2 bi bi-github text-3xl"
+          />
         </div>
       </div>
     </div>
